@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer and Machine Learning Lead with a Master's 
 ### [LazyLoad](Lazyload.ai)
 A stable diffusion Unity extension for generative AI.
 
-### [NLP Project](https://drive.google.com/file/d/1pQ4U4FKDkYha1IuUPJMEMUZV5CfE2-r5/view?usp=drive_link)
+### [NLP_lstmvsAttention](https://drive.google.com/file/d/1pQ4U4FKDkYha1IuUPJMEMUZV5CfE2-r5/view?usp=drive_link)
 Comparing Traditional LSTMs and Attention-based Encoding Models for Varying Sequence Length.
 
 ### [LLM Itinerary Planner](https://github.com/your-github-username/LLM_itinerary_planner)
