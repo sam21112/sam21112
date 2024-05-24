@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer and Machine Learning Lead with a Master's 
 ## 🚀 Projects
 
 
-### [LazyLoad](Lazyload.ai)
+### [LazyLoad](https:Lazyload.ai)
 A stable diffusion Unity extension for generative AI.
 
 ### [NLP_lstmvsAttention](https://drive.google.com/file/d/1pQ4U4FKDkYha1IuUPJMEMUZV5CfE2-r5/view?usp=drive_link)
