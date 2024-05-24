@@ -13,6 +13,10 @@ A stable diffusion Unity extension for generative AI.
 ### [NLP Project](https://drive.google.com/file/d/1pQ4U4FKDkYha1IuUPJMEMUZV5CfE2-r5/view?usp=drive_link)
 Comparing Traditional LSTMs and Attention-based Encoding Models for Varying Sequence Length.
 
+### [LLM Itinerary Planner](https://github.com/your-github-username/LLM_itinerary_planner)
+A chatbot-based itinerary planner leveraging LLMs like Bard and GPT to provide personalized travel plans. This project demonstrates the integration of language models in creating efficient and user-friendly travel planning solutions.
+
+
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, JavaScript, TypeScript, SQL
