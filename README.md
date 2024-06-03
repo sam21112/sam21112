@@ -35,4 +35,4 @@ A Web-based itinerary planner leveraging LLMs like Bard and GPT to provide perso
 
 ## 💡 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-sam21112&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam21112&layout=compact&theme=radical)
