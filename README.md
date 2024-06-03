@@ -32,6 +32,9 @@ A Web-based itinerary planner leveraging LLMs like Bard and GPT to provide perso
 - [Email](mailto:samarthraipal@example.com)
 - [Resume](https://drive.google.com/file/d/1nGFSvLPqFg0_GuKQ6N-vUeH2kF44opQk/view?usp=sharing)
 
+## 📈 GitHub Stats
+
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## 💡 Top Languages
 
