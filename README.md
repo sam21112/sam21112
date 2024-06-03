@@ -31,8 +31,8 @@ A chatbot that scans resumes and provides job recommendations using GPT.
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/samarthraipal)
-- [Email](mailto:samarthraipal@example.com)
+- [LinkedIn](https://www.linkedin.com/in/samarth-raipal-b45457128/)
+- [Email](mailto:samarthraipal@gmail.com)
 - [Resume](https://drive.google.com/file/d/1nGFSvLPqFg0_GuKQ6N-vUeH2kF44opQk/view?usp=sharing)
 
 ## 📈 GitHub Stats
