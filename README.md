@@ -16,6 +16,9 @@ Comparing Traditional LSTMs and Attention-based Encoding Models for Varying Sequ
 ### [LLM Itinerary Planner](https://github.com/sam21112/LLM_itinery_planner.git)
 A Web-based itinerary planner leveraging LLMs like Bard and GPT to provide personalized travel plans. This project demonstrates the integration of language models in creating efficient and user-friendly travel planning solutions.
 
+### [Resume Scanner and Job Recommendation Chatbot](https://github.com/sam21112/resume-scanner-chatbot)
+A chatbot that scans resumes and provides job recommendations using GPT.
+
 
 ## 🛠️ Skills
 
