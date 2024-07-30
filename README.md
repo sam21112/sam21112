@@ -7,8 +7,7 @@ I'm a passionate Full Stack Developer and Machine Learning Lead with a Master's 
 ## 🚀 Projects
 
 
-### [LazyLoad](http:Lazyload.ai)
-A stable diffusion Unity extension for generative AI.
+ 
 
 ### [NLP_lstmvsAttention](https://drive.google.com/file/d/1pQ4U4FKDkYha1IuUPJMEMUZV5CfE2-r5/view?usp=drive_link)
 Comparing Traditional LSTMs and Attention-based Encoding Models for Varying Sequence Length.
@@ -18,6 +17,9 @@ A Web-based itinerary planner leveraging LLMs like Bard and GPT to provide perso
 
 ### [Resume Scanner and Job Recommendation Chatbot](https://github.com/sam21112/resume-scanner-chatbot)
 A chatbot that scans resumes and provides job recommendations using GPT.
+
+### [LazyLoad]
+A stable diffusion Unity extension for generative AI.
 
 
 ## 🛠️ Skills
