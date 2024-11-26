@@ -6,7 +6,8 @@ I'm a passionate Full Stack Developer and Machine Learning Lead with a Master's 
 
 ## 🚀 Projects
 
-
+### [Book Recommender System](https://book-recommendation-system-nlaw.onrender.com/recommend)
+The Book Recommendation System is a web application built using Flask. It allows users to explore popular books and receive personalized book recommendations based on their preferences. The project uses Collaborative Filtering for generating recommendations and Fuzzy Search for enhanced user input flexibility
  
 
 ### [NLP_lstmvsAttention](https://drive.google.com/file/d/1pQ4U4FKDkYha1IuUPJMEMUZV5CfE2-r5/view?usp=drive_link)
