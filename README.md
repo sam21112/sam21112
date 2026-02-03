@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Full Stack Developer and Machine Learning Lead with a Master's degree in Computer Science. I have a strong focus on machine learning, AI, and full-stack development. I enjoy building innovative solutions and am always eager to learn and take on new challenges in the tech industry.
+I'm a passionate AI/ML Full Stack Developer with a Master's degree in Computer Science. I have a strong focus on machine learning, AI, and full-stack development. I enjoy building innovative solutions and am always eager to learn and take on new challenges in the tech industry.
 
 ## 🚀 Projects
 
